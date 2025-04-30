@@ -4,7 +4,6 @@
 ## 安裝套件
 - requests==2.32.3
 - beautifulsoup4==4.13.4
-- selenium==4.31.0
 
 ## 成果
 ...
